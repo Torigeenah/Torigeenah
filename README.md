@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Torigeenah
 - 👀 I’m interested in Web and Game development
 - 🌱 I’m currently learning React and PostgreSQL
-- 💞️ I’m looking to collaborate on gaming projects to build my skills
+- 💞️ I’m looking to collaborate on coding and gaming projects to build my skills
 - 📫 How to reach me geenataty@gmail.com
 - 😄 Pronouns: she/her
 
