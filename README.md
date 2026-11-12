@@ -1,12 +1,7 @@
 - 👋 Hi, I’m @Torigeenah
-- 👀 I’m interested in Web and Game development
-- 🌱 I’m currently learning React and PostgreSQL
+- 👀 I’m interested in Web, Apps and Game development
+- 🌱 I’m experienced in JavaScript and C#
 - 💞️ I’m looking to collaborate on coding and gaming projects to build my skills
-- 📫 How to reach me geenataty@gmail.com
+- 📫 How to reach me toritsejuawani@gmail.com
 - 😄 Pronouns: she/her
 
-
-<!---
-Torigeenah/Torigeenah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
